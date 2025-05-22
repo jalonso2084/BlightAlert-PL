@@ -88,7 +88,7 @@ Scientific thresholds originate from openly published literature (cited in the s
 
 If you use BlightAlert-PL in research or extension work, please cite:
 
-> **Kapsa J. et al.** NegFry validation under Polish conditions. *J. Plant Prot. Res.* 43 (2): 171-179 (2003).
+> **Jorge Luis Alonso**, AI-Driven Agricultural Data Specialist, https://www.linkedin.com/in/jorgeluisalonso/
 
 ---
 
